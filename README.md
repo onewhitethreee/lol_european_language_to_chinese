@@ -1,6 +1,9 @@
 # lol_european_language_to_chinese
- -Å·ÖŞÓïÑÔ×ªÖĞÎÄ
+ -æ¬§æ´²è¯­è¨€è½¬ä¸­æ–‡
 
  
- -Ê¹ÓÃ·½·¨
-ÔÚÊäÈë¿òÊäÈëLOLµÄ°²×°Â·¾¶È»ºó´ò¿ª
+ -ä½¿ç”¨æ–¹æ³•
+ 
+åœ¨è¾“å…¥æ¡†è¾“å…¥LOLçš„å®‰è£…è·¯å¾„ç„¶åæ‰“å¼€
+
+![image](https://github.com/onewhitethreee/lol_european_language_to_chinese/assets/38567612/6c4c6152-cee4-4499-b5be-08bd4455e421)
